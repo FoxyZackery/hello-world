@@ -1,6 +1,4 @@
 # hello-world
-Oh lord this'll suck.
-
 Greetings, all.
 
 I was born under one name, but currently I am going by 'Iris'. 
